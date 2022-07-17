@@ -1,0 +1,4 @@
+THE AIM IS TO CREATE A GRAPHICAL INTERFACE FOR A ADMINISTRATOR TO COMMUNICATE TO THE SQL SERVER WITHOUT WRITING A CODE.
+LIBRARIES USED ARE:
+1. Tkinter - For GUI
+2. mysql-connector - To communicate with the sql server using cursors.
